@@ -1,0 +1,18 @@
+<eqn>
+$answerA = 12;
+$answerB = 30;
+$answerC = 60;
+$answerD = 75;
+''
+</eqn>
+
+If <watex> /[ f(x) = (x^4 + x)^3 \] </watex>, then <watex> \[ f'(1) = \] </watex>
+<br>
+<_>
+
+
+<eqn $ORDERED=3; ''><eqn $answerA>
+<eqn $answerB>
+<eqn $answerC>
+<eqn $answerD>
+
